@@ -1,4 +1,4 @@
-# Hi, I'm Aderajew Zewdu👋
+# Hi, I'm Aderajew Zewdu
 
 ![Profile Image](https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
 
@@ -21,7 +21,7 @@ I am a passionate **Software Developer** and **Excel VBA Expert** with extensive
 
 - 📧 Email: [aderajewzewdu780@gmail.com](mailto:aderajewzewdu780@gmail.com)
 - 📱 Phone: +251 919 870 243
-- 💻 GitHub: [Ad-123](https://github.com/Ad-123)
+- 💻 GitHub: [Ad-123](https://https://github.com/Ad38056/Ad-123)
 
 ---
 
